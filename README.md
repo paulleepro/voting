@@ -1,7 +1,7 @@
 # voting
 a voting app as an assignment with Freecodecamp.com. It was built using MERN stack (MongoDB, Express, React and Node).
 
-This codebase is built using [this](https://github.com/sahat/hackathon-starter/tree/es5) as boilerplate
+This codebase is built using [this](https://github.com/sahat/hackathon-starter) as boilerplate
 
 # User stories
 
@@ -38,7 +38,3 @@ The core features of this app are implemented in with React router. The specfic 
     - users can see their own polls.
     - users can remove their own polls
     - users can share their own polls on twitter.
-
-# Notes
-
-Using D3 within a React component was a bit of a learning experience. [This blog post](http://www.jstoebel.com/getting-react-and-d3-to-play-nice/) outlines how I did it:

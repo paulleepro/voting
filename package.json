@@ -1,9 +1,9 @@
 {
-  "name": "jstoebel-voting",
+  "name": "kamildev1-voting",
   "version": "3.5.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstoebel/voting.git"
+    "url": "https://github.com/kamildev1/voting.git"
   },
   "scripts": {
     "start": "node app.js",
